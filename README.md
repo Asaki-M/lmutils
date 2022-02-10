@@ -1,12 +1,8 @@
-[TOC]
-
-
-
 ## 简介
 
 **@qinghuanaa/lmutils**是一个简单易上手的`js`工具库，将一些常见业务的逻辑封装起来，开箱即用。
 
-> **@qinghuanaa/lmutils**遵循 MIT 开源协议发布，GitHub 地址：
+> **@qinghuanaa/lmutils**遵循 MIT 开源协议发布，GitHub 地址：https://github.com/Asaki-M/lmutils
 
 ## 安装
 

@@ -1,6 +1,6 @@
 {
   "name": "@qinghuanaa/lmutils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "常见的js业务工具函数封装",
   "main": "index.js",
   "author": "Qinghuan",
