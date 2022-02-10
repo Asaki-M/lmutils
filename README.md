@@ -23,12 +23,9 @@ npm i @qinghuanaa/lmutils
 ```js
 // 全部导入
 // import lmutils from '@qinghuanaa/lmutils'
+// const lmutils = require('@qinghuanaa/lmutils')
 import _ from '@qinghuanaa/lmutils'
 
-// 部分导入
-import { lm_copy, lm_getdayago } from '@qinghuanaa/lmutils'
-
-lm_copy('text')
 // lmutils.lm_copy('text')
 _.lm_copy('text')
 ```

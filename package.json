@@ -1,8 +1,9 @@
 {
   "name": "@qinghuanaa/lmutils",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "常见的js业务工具函数封装",
-  "main": "index.js",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
   "author": "Qinghuan",
   "license": "MIT",
   "scripts": {
